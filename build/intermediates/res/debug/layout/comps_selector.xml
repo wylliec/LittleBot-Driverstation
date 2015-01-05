@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#555555"
+     >
+
+    <ListView
+        android:id="@+id/comps_selection"
+        android:layout_width="130dp"
+        android:layout_height="match_parent" >
+
+    </ListView>
+
+    <FrameLayout
+        android:id="@+id/preview"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginLeft="10dp" >
+    </FrameLayout>
+
+    <littlebot2014.littlebotdriverstation.LButton
+        android:id="@+id/lButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout><!-- From: file:/media/raystubbs/GENERAL/Android%20Projects/LittleBotDriverstation/res/layout/comps_selector.xml -->

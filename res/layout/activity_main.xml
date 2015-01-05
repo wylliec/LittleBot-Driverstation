@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <littlebot2014.littlebotdriverstation.Dock
+        android:id="@+id/dock1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+  
+    </littlebot2014.littlebotdriverstation.Dock>
+
+    <littlebot2014.littlebotdriverstation.LLayout
+        android:id="@+id/llayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/dock1" >
+
+    </littlebot2014.littlebotdriverstation.LLayout>
+
+    <littlebot2014.littlebotdriverstation.Trash
+        android:id="@+id/trash1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/llayout"
+        android:src="@drawable/trash" />
+
+</RelativeLayout>

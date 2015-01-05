@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res" >
+            <file
+                name="ic_action_edit"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-hdpi/ic_action_edit.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-hdpi/ic_action_new.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-hdpi/ic_action_remove.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="littlebot_joystick_inner"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/littlebot_joystick_inner.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button_pressed"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/button_pressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="button_depressed"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/button_depressed.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="trash"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/trash.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="trash_dissabled"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/trash_dissabled.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="slider_base"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/slider_base.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_edit"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/ic_action_edit.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_new"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/ic_action_new.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_action_remove"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/ic_action_remove.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="simple_joystick_inner"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/simple_joystick_inner.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="simple_joystick_outer"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/simple_joystick_outer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="slider"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/drawable-mdpi/slider.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="spinner_item"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/spinner_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="comps_selector"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/comps_selector.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="joystick_dialog"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/joystick_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="display_dialog"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/display_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="button_dialog"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/button_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="slider_dialog"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/layout/slider_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values/strings.xml"
+                qualifiers="" >
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >LittleBot Driverstation
+                </string>
+            </file>
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="DialogTheme"
+                    parent="android:Theme.Holo.Dialog" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                name="main_activity_menu"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/menu/main_activity_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="add_menu"
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/menu/add_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/build/generated/res/rs/debug" />
+        <source path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/media/raystubbs/GENERAL/Android Projects/LittleBotDriverstation/build-types/debug/res" />
+    </dataSet>
+
+</merger>

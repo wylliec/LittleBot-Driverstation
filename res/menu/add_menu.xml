@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <item
+	        android:id="@+id/add_joystick"
+	        android:title="Joystick"
+	        android:showAsAction="always"/>
+        
+         <item
+	        android:id="@+id/add_button"
+	        android:title="Button"
+	        android:showAsAction="always"
+	        />
+         
+          <item
+	        android:id="@+id/add_slider"
+	        android:title="Slider"
+	        android:showAsAction="always"
+	        />
+</menu>
